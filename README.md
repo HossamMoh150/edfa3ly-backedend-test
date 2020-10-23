@@ -23,3 +23,13 @@ use psotman or any rest tool to create oreder and recive a bill       <br>
             products[]:4       <br>
 
 or use postman collection (uploded)        <br>
+
+
+output :<br>
+
+Subtotal: $66.96<br>
+Taxes: $9.37<br>
+Discounts:<br>
+50% off : -$9.995<br>
+10% off : -$2.499<br>
+Total: 63.836<br>
