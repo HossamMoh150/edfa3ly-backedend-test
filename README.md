@@ -24,7 +24,7 @@ use psotman or any rest tool to create oreder and recive a bill       <br>
 
 or use postman collection (uploded)        <br>
 
-
+there are screenshot named output (uploaded)<br>
 output :<br>
 
 Subtotal: $66.96<br>
